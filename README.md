@@ -11,6 +11,8 @@ List of WPRDC-relevant tools and data analyses.
 - [conorotompkins/pittsburgh_311](https://github.com/conorotompkins/pittsburgh_311) - Conor Tompkins' R-based analaysis of [Pittsburgh's 311 data](https://data.wprdc.org/dataset/311-data).
 ### Fatal Accidental Overdoses Data
 - [conorotompkins/allegheny_overdoses](https://github.com/conorotompkins/allegheny_overdoses) - Conor Tompkins' R-based analaysis of the [County Fatal Accidental Overdoses data](https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses).
+### Crime Data
+- [conorotompkins/pgh-crime](https://github.com/conorotompkins/pgh-crime) - Conor Tompkins' R-based analysis of [https://data.wprdc.org/dataset?q=crime&sort=views_recent+desc](Pittsburgh crime data).
 
 ## Other data sources
 
