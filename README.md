@@ -17,6 +17,9 @@ List of WPRDC-relevant tools and data analyses.
 ### Tools
 - [ljwolf/cenpy](https://github.com/ljwolf/cenpy) - A Python library for exploring and querying the US Census API and returning Pandas DataFrames.
 
+## General tools for working with data
+- [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data. (It's basically a Swiss Army chainsaw for manipulating tabular data.)
+
 ## Contribute
 
 Please contribute things that could be useful to others using [WPRDC ](https://www.wprdc.org)[data](https://data.wprdc.org), including scripts for data cleaning or analyzing data, Jupyter notebooks for particular datasets, and tools for manipulating and visualizing the data.
