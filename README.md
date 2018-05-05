@@ -16,6 +16,8 @@ List of WPRDC-relevant tools and data analyses.
 - [conorotompkins/pgh-crime](https://github.com/conorotompkins/pgh-crime) - Conor Tompkins' R-based analysis of [Pittsburgh crime data](https://data.wprdc.org/dataset?q=crime&sort=views_recent+desc).
 ### Healthy Ride Data
 - [conorotompkins/healthy_ride](https://github.com/conorotompkins/healthy_ride) - Conor Tompkins' R-based analysis of Healthy Ride data.
+### Crash Data
+- [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb) - WPRDC data analysis of Allegheny County crash data, demonstrating a few methods for loading data from CKAN and manipulating data.
 
 ## Other data sources
 
