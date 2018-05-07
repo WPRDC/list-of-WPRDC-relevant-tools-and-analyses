@@ -10,16 +10,16 @@ List of WPRDC-relevant tools and data analyses.
 ### 311 Data
 - [conorotompkins/pittsburgh_311](https://github.com/conorotompkins/pittsburgh_311) - Conor Tompkins' R-based analaysis of [Pittsburgh's 311 data](https://data.wprdc.org/dataset/311-data).
 - [The Use of 311 Requests as a Measure of Neighborhood Conditions in the City of Pittsburgh](https://ucsur.pitt.edu/files/peq/peq_2017-03.pdf) - An article reporting on the analysis of [Pittsburgh's 311 data](https://data.wprdc.org/dataset/311-data), by UCSUR's own Don Musa, published in UCSUR's PEQ (Pittsburgh Economic Quarterly).
-### Fatal Accidental Overdoses Data
-- [conorotompkins/allegheny_overdoses](https://github.com/conorotompkins/allegheny_overdoses) - Conor Tompkins' R-based analaysis of the [County Fatal Accidental Overdoses data](https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses).
+### Crash Data
+- [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb) - WPRDC data analysis of Allegheny County crash data, demonstrating a few methods for loading data from CKAN and manipulating data.
 ### Crime Data
 - [conorotompkins/pgh-crime](https://github.com/conorotompkins/pgh-crime) - Conor Tompkins' R-based analysis of [Pittsburgh crime data](https://data.wprdc.org/dataset?q=crime&sort=views_recent+desc).
 ### Dog License Data
 - [nrfulton/pittdoggos](https://github.com/nrfulton/pittdoggos) - Nathan Fulton's Python scripts for analyzing county dog-license data and a simple Web page for searching dogs by name.
+### Fatal Accidental Overdoses Data
+- [conorotompkins/allegheny_overdoses](https://github.com/conorotompkins/allegheny_overdoses) - Conor Tompkins' R-based analaysis of the [County Fatal Accidental Overdoses data](https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses).
 ### Healthy Ride Data
 - [conorotompkins/healthy_ride](https://github.com/conorotompkins/healthy_ride) - Conor Tompkins' R-based analysis of Healthy Ride data.
-### Crash Data
-- [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb) - WPRDC data analysis of Allegheny County crash data, demonstrating a few methods for loading data from CKAN and manipulating data.
 
 ## Other data sources
 
