@@ -5,7 +5,7 @@ List of WPRDC-relevant tools and data analyses.
 - [WPRDC Property Dashboard](http://tools.wprdc.org/property-dashboard/) - The Regional Data Center's Property Dashboard integrates data from multiple data sources and provides it all in one place. We're happy to announce that the beta version of the tool is now live, and we built it in-house. 
 - [WPRDC's Parcels n'at](http://tools.wprdc.org/parcels-n-at/) - Parcels n'at allows you to pull a variety of data by neighborhood, municipality, or even for a user-defined area using some of the embedded drawing tools. 
 
-## Data analyses
+## Data analyses by dataset
 
 ### 311 Data
 - [conorotompkins/pittsburgh_311](https://github.com/conorotompkins/pittsburgh_311) - Conor Tompkins' R-based analaysis of [Pittsburgh's 311 data](https://data.wprdc.org/dataset/311-data).
@@ -22,6 +22,18 @@ List of WPRDC-relevant tools and data analyses.
 - [conorotompkins/allegheny_overdoses](https://github.com/conorotompkins/allegheny_overdoses) - Conor Tompkins' R-based analaysis of the [County Fatal Accidental Overdoses data](https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses).
 ### Healthy Ride Data
 - [conorotompkins/healthy_ride](https://github.com/conorotompkins/healthy_ride) - Conor Tompkins' R-based analysis of Healthy Ride data.
+
+## Examples demonstrating different skills
+
+### Making bar charts
+- [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb)
+### Mapping
+- [eleanortutt/codeforpgh-20180613](https://github.com/eleanortutt/codeforpgh-20180613)
+### Pandas dataframes
+- [eleanortutt/codeforpgh-20180613](https://github.com/eleanortutt/codeforpgh-20180613)
+- [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb)
+### Pulling WPRDC data through the CKAN API
+- [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb)
 
 ## Other data sources
 
