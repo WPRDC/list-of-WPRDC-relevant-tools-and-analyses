@@ -27,6 +27,8 @@ List of WPRDC-relevant tools and data analyses.
 
 ### Making bar charts
 - [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb)
+### Making SQL queries on WPRDC data
+- [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb)
 ### Mapping
 - [eleanortutt/codeforpgh-20180613](https://github.com/eleanortutt/codeforpgh-20180613)
 ### Pandas dataframes
