@@ -36,6 +36,8 @@ List of WPRDC-relevant tools and data analyses.
 - [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb)
 ### Pulling WPRDC data through the CKAN API
 - [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb)
+### Transforming from a long-format data table to a wide-format data table
+- [WPRDC/Jupyter-notebooks-by-dataset/air-quality-exploration](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/air-quality-exploration.ipynb)
 
 ## Other data sources
 
