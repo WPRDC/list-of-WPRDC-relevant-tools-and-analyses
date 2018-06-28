@@ -10,6 +10,8 @@ List of WPRDC-relevant tools and data analyses.
 ### [311 Data](https://data.wprdc.org/dataset/311-data)
 - [conorotompkins/pittsburgh_311](https://github.com/conorotompkins/pittsburgh_311) - Conor Tompkins' R-based analaysis of [Pittsburgh's 311 data](https://data.wprdc.org/dataset/311-data).
 - [The Use of 311 Requests as a Measure of Neighborhood Conditions in the City of Pittsburgh](https://ucsur.pitt.edu/files/peq/peq_2017-03.pdf) - An article reporting on the analysis of [Pittsburgh's 311 data](https://data.wprdc.org/dataset/311-data), by UCSUR's own Don Musa, published in UCSUR's PEQ (Pittsburgh Economic Quarterly).
+### [Air-Quality Data](https://data.wprdc.org/dataset/allegheny-county-air-quality)
+- [WPRDC/Jupyter-notebooks-by-dataset/air-quality-exploration](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/air-quality-exploration.ipynb) - A demonstration of how to dig into the Allegheny County air-quality data to pull out and plot particular measurements.
 ### Carnegie Library Wi-Fi Use Data
 - [eleanortutt/codeforpgh-20180613](https://github.com/eleanortutt/codeforpgh-20180613) - Eleanor Tutt's demonstration of how to load data into Pandas dataframes and how to make choloropleth maps.
 ### [Crash Data](https://data.wprdc.org/dataset/allegheny-county-crash-data)
