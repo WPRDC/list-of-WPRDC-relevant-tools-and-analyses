@@ -19,8 +19,8 @@ List of WPRDC-relevant tools and data analyses.
 - [conorotompkins/allegheny_crashes](https://github.com/conorotompkins/allegheny_crashes) - Conor Tompkins' R-based analysis of [Allegheny County crash data](https://data.wprdc.org/dataset/allegheny-county-crash-data) and the accompanying [blog post](https://ctompkins.netlify.com/2018/06/27/car-crashes-in-allegheny-county/), showing some interesting visualizations.
 ### [Crime Data](https://data.wprdc.org/dataset?q=crime&sort=views_recent+desc)
 - [conorotompkins/pgh-crime](https://github.com/conorotompkins/pgh-crime) - Conor Tompkins' R-based analysis of [Pittsburgh crime data](https://data.wprdc.org/dataset?q=crime&sort=views_recent+desc).
-### Dog License Data
-- [nrfulton/pittdoggos](https://github.com/nrfulton/pittdoggos) - Nathan Fulton's Python scripts for analyzing county dog-license data and a simple Web page for searching dogs by name.
+### [Dog-License Data](https://data.wprdc.org/dataset/allegheny-county-dog-licenses)
+- [nrfulton/pittdoggos](https://github.com/nrfulton/pittdoggos) - Nathan Fulton's Python scripts for analyzing county (but not city) dog-license data and a simple Web page for searching dogs by name.
 ### Fatal Accidental Overdoses Data
 - [conorotompkins/allegheny_overdoses](https://github.com/conorotompkins/allegheny_overdoses) - Conor Tompkins' R-based analaysis of the [County Fatal Accidental Overdoses data](https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses).
 ### Healthy Ride Data
