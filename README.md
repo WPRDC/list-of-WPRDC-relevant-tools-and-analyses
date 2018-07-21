@@ -28,18 +28,19 @@ List of WPRDC-relevant tools and data analyses.
 
 ## Examples demonstrating different skills
 
-### Making bar charts
+### Python
+#### Making bar charts
 - [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb)
-### Making SQL queries on WPRDC data
+#### Making SQL queries on WPRDC data
 - [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb)
-### Mapping
+#### Mapping
 - [eleanortutt/codeforpgh-20180613](https://github.com/eleanortutt/codeforpgh-20180613)
-### Pandas dataframes
+#### Pandas dataframes
 - [eleanortutt/codeforpgh-20180613](https://github.com/eleanortutt/codeforpgh-20180613)
 - [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb)
-### Pulling WPRDC data through the CKAN API
+#### Pulling WPRDC data through the CKAN API
 - [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb)
-### Transforming from a long-format data table to a wide-format data table
+#### Transforming from a long-format data table to a wide-format data table
 - [WPRDC/Jupyter-notebooks-by-dataset/air-quality-exploration](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/air-quality-exploration.ipynb)
 
 ## Other data sources
