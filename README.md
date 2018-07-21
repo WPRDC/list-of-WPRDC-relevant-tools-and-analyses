@@ -43,6 +43,10 @@ List of WPRDC-relevant tools and data analyses.
 #### Transforming from a long-format data table to a wide-format data table
 - [WPRDC/Jupyter-notebooks-by-dataset/air-quality-exploration](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/air-quality-exploration.ipynb)
 
+### R
+#### Learning R 
+- [Tutorial on using R to analyze pothole data](https://ctompkins.netlify.com/2018/04/18/r-311-pothole-workshop-code-for-pittsburgh/) - Material from a workshop run by Conor Tompkins, using Pittsburgh's 311 data on potholes to teach the basics of using R (including manipulating data and making charts and maps).
+
 ## Other data sources
 
 ### Tools
