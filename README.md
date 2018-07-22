@@ -29,6 +29,8 @@ List of WPRDC-relevant tools and data analyses.
 ## Examples demonstrating different skills
 
 ### Python
+#### Learning Python/Jupyter notebooks/data analysis
+- [WPRDC/urban-informatics-and-visualization](https://github.com/WPRDC/urban-informatics-and-visualization) - A WPRDC fork of Paul Waddell's course materials for Urban Informatics and Visualization. These Jupyter notebooks cover Python/Jupyter fundamentals, cleaning/manipulating/analyzing/visualizing/mapping data, and using Web APIs for getting and posting data.
 #### Making bar charts
 - [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb)
 #### Making SQL queries on WPRDC data
