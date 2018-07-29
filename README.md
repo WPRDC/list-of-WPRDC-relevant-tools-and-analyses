@@ -1,5 +1,5 @@
 # list-of-WPRDC-relevant-tools-and-analyses
-List of WPRDC-relevant tools and data analyses. 
+A collection of WPRDC-relevant tools and data analyses. 
 
 ## Tools
 - [WPRDC Property Dashboard](http://tools.wprdc.org/property-dashboard/) - The Regional Data Center's Property Dashboard integrates data from multiple data sources and provides it all in one place. We're happy to announce that the beta version of the tool is now live, and we built it in-house. 
