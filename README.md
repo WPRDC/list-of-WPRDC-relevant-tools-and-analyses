@@ -48,6 +48,8 @@ List of WPRDC-relevant tools and data analyses.
 ### R
 #### Learning R 
 - [Tutorial on using R to analyze pothole data](https://ctompkins.netlify.com/2018/04/18/r-311-pothole-workshop-code-for-pittsburgh/) - Material from a workshop run by Conor Tompkins, using Pittsburgh's 311 data on potholes to teach the basics of using R (including manipulating data and making charts and maps).
+#### Principal component analysis in R
+- [Principal Component Analysis in R](https://ctompkins.netlify.com/2018/07/19/exploring-311-data-with-pca/) - A bloh post explaining the application of prinicpal component analysis to Pittsburgh's 311 data.
 
 ## Other data sources
 
