@@ -19,6 +19,7 @@ A collection of WPRDC-relevant tools and data analyses.
 - [conorotompkins/allegheny_crashes](https://github.com/conorotompkins/allegheny_crashes) - Conor Tompkins' R-based analysis of [Allegheny County crash data](https://data.wprdc.org/dataset/allegheny-county-crash-data) and the accompanying [blog post](https://ctompkins.netlify.com/2018/06/27/car-crashes-in-allegheny-county/), showing some interesting visualizations.
 ### [Crime Data](https://data.wprdc.org/dataset?q=crime&sort=views_recent+desc)
 - [conorotompkins/pgh-crime](https://github.com/conorotompkins/pgh-crime) - Conor Tompkins' R-based analysis of [Pittsburgh crime data](https://data.wprdc.org/dataset?q=crime&sort=views_recent+desc).
+- [ZacharyGoldstein/pgh-juvenile-arrests](https://github.com/ZacharyGoldstein/pgh-juvenile-arrests) - Zach Goldstein's analysis of [Pittsburgh arrests data](https://data.wprdc.org/dataset/arrest-data) for a [WESA article on juvenile arrests](http://www.wesa.fm/post/pittsburgh-s-trend-juvenile-arrests-explained-4-charts-and-maps). You can also view the [Jupyter notebook with plots](https://nbviewer.jupyter.org/github/ZacharyGoldstein/pgh-juvenile-arrests/blob/master/Arrest%20Data%20EDA.ipynb).
 ### [Dog-License Data](https://data.wprdc.org/dataset/allegheny-county-dog-licenses)
 - [nrfulton/pittdoggos](https://github.com/nrfulton/pittdoggos) - Nathan Fulton's Python scripts for analyzing county (but not city) dog-license data and a simple Web page for searching dogs by name.
 ### Fatal Accidental Overdoses Data
