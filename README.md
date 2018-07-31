@@ -24,8 +24,8 @@ A collection of WPRDC-relevant tools and data analyses.
 - [nrfulton/pittdoggos](https://github.com/nrfulton/pittdoggos) - Nathan Fulton's Python scripts for analyzing county (but not city) dog-license data and a simple Web page for searching dogs by name.
 ### Fatal Accidental Overdoses Data
 - [conorotompkins/allegheny_overdoses](https://github.com/conorotompkins/allegheny_overdoses) - Conor Tompkins' R-based analaysis of the [County Fatal Accidental Overdoses data](https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses).
-### Healthy Ride Data
-- [conorotompkins/healthy_ride](https://github.com/conorotompkins/healthy_ride) - Conor Tompkins' R-based analysis of Healthy Ride data.
+### [Healthy Ride Data](https://data.wprdc.org/dataset?organization=healthy-ride)
+- [conorotompkins/healthy_ride](https://github.com/conorotompkins/healthy_ride) - Conor Tompkins' R-based analysis of [Healthy Ride data](https://data.wprdc.org/dataset?organization=healthy-ride).
 
 ## Examples demonstrating different skills
 
