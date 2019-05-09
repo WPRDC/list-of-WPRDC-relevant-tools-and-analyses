@@ -1,9 +1,9 @@
 # list-of-WPRDC-relevant-tools-and-analyses
-A collection of WPRDC-relevant tools and data analyses. 
+A collection of WPRDC-relevant tools and data analyses.
 
 ## Tools
-- [WPRDC Property Dashboard](http://tools.wprdc.org/property-dashboard/) - The Regional Data Center's Property Dashboard integrates data from multiple data sources and provides it all in one place. We're happy to announce that the beta version of the tool is now live, and we built it in-house. 
-- [WPRDC's Parcels n'at](http://tools.wprdc.org/parcels-n-at/) - Parcels n'at allows you to pull a variety of data by neighborhood, municipality, or even for a user-defined area using some of the embedded drawing tools. 
+- [WPRDC Property Dashboard](http://tools.wprdc.org/property-dashboard/) - The Regional Data Center's Property Dashboard integrates data from multiple data sources and provides it all in one place. We're happy to announce that the beta version of the tool is now live, and we built it in-house.
+- [WPRDC's Parcels n'at](http://tools.wprdc.org/parcels-n-at/) - Parcels n'at allows you to pull a variety of data by neighborhood, municipality, or even for a user-defined area using some of the embedded drawing tools.
 
 ## Data analyses by dataset
 
@@ -38,16 +38,18 @@ A collection of WPRDC-relevant tools and data analyses.
 - [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb)
 #### Mapping
 - [eleanortutt/codeforpgh-20180613](https://github.com/eleanortutt/codeforpgh-20180613)
+- [thoo/EMS-Dispatches-Pittsburgh/plotly_map_plot.ipynb](https://github.com/thoo/EMS-Dispatches-Pittsburgh/blob/master/plotly_map_plot.ipynb)
 #### Pandas dataframes
 - [eleanortutt/codeforpgh-20180613](https://github.com/eleanortutt/codeforpgh-20180613)
 - [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb)
+- [thoo/EMS-Dispatches-Pittsburgh](https://github.com/thoo/EMS-Dispatches-Pittsburgh)
 #### Pulling WPRDC data through the CKAN API
 - [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb)
 #### Transforming from a long-format data table to a wide-format data table
 - [WPRDC/Jupyter-notebooks-by-dataset/air-quality-exploration](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/air-quality-exploration.ipynb)
 
 ### R
-#### Learning R 
+#### Learning R
 - [Tutorial on using R to analyze pothole data](https://ctompkins.netlify.com/2018/04/18/r-311-pothole-workshop-code-for-pittsburgh/) - Material from a workshop run by Conor Tompkins, using Pittsburgh's 311 data on potholes to teach the basics of using R (including manipulating data and making charts and maps).
 #### Principal component analysis in R
 - [Principal Component Analysis in R](https://ctompkins.netlify.com/2018/07/19/exploring-311-data-with-pca/) - A bloh post explaining the application of prinicpal component analysis to Pittsburgh's 311 data.
