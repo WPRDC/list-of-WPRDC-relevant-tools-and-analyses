@@ -65,6 +65,7 @@ A collection of WPRDC-relevant tools and data analyses.
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data. (It's basically a Swiss Army chainsaw for manipulating tabular data.)
 
 ## Code for dealing with Census data
+- [datamade/census](https://github.com/datamade/census) - A Python wrapper for the U.S. Census API.
 - [datadesk/census-error-analyzer](https://github.com/datadesk/census-error-analyzer) - Given two Census values and the corresponding margins of error, this Python library can do an analysis to determine whether there is a statistically significant difference between them.
 
 ## Contribute
