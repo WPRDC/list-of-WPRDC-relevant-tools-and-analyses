@@ -64,6 +64,9 @@ A collection of WPRDC-relevant tools and data analyses.
 ## General tools for working with data
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data. (It's basically a Swiss Army chainsaw for manipulating tabular data.)
 
+## Code for dealing with Census data
+- [datadesk/census-error-analyzer](https://github.com/datadesk/census-error-analyzer) - Given two Census values and the corresponding margins of error, this Python library can do an analysis to determine whether there is a statistically significant difference between them.
+
 ## Contribute
 
 Please contribute things that could be useful to others using [WPRDC ](https://www.wprdc.org)[data](https://data.wprdc.org), including scripts for data cleaning or analyzing data, Jupyter notebooks for particular datasets, and tools for manipulating and visualizing the data.
