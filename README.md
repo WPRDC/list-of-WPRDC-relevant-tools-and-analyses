@@ -56,19 +56,16 @@ A collection of WPRDC-relevant tools and data analyses.
 #### CKAN API usage under R + debugging a broken SQL query
 - [Using the CKAN API wrapper + converting string fields to integers in SQL queries](https://gist.github.com/drw/3fa37a32dcb49d42820347b8b735bec3) - Addressing a common pitfall when running SQL queries, this R script shows how to convert a string field to an integer and then use it in the WHERE clause of a SQL query. This also gives a simple example of using the ckanr wrapper package to more easily use the CKAN API.
 
-## Other data sources
-
-### Tools
-
-## General tools for working with data
+## Useful tools and code libraries
+### General tools for working with data
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data. (It's basically a Swiss Army chainsaw for manipulating tabular data.)
 
-## Code for dealing with Census data
+### Code for dealing with Census data
 - [ljwolf/cenpy](https://github.com/ljwolf/cenpy) - A Python library for exploring and querying the US Census API and returning Pandas DataFrames.
 - [datamade/census](https://github.com/datamade/census) - A Python wrapper for the U.S. Census API.
 - [datadesk/census-error-analyzer](https://github.com/datadesk/census-error-analyzer) - Given two Census values and the corresponding margins of error, this Python library can do an analysis to determine whether there is a statistically significant difference between them.
 
-## Code for geospatial manipulation
+### Code for geospatial manipulation
 - [mggg/maup](https://github.com/mggg/maup) - "The geospatial toolkit for redistricting data", a Python package designed to facilitate conversion between spatial regions used for elections (e.g., precincts) and spatial regions used by the Census to collect demographic information (e.g., blocks).
 
 ## Contribute
