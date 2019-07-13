@@ -22,7 +22,7 @@ A collection of WPRDC-relevant tools and data analyses.
 - [ZacharyGoldstein/pgh-juvenile-arrests](https://github.com/ZacharyGoldstein/pgh-juvenile-arrests) - Zach Goldstein's analysis of [Pittsburgh arrests data](https://data.wprdc.org/dataset/arrest-data) for a [WESA article on juvenile arrests](http://www.wesa.fm/post/pittsburgh-s-trend-juvenile-arrests-explained-4-charts-and-maps). You can also view the [Jupyter notebook with plots](https://nbviewer.jupyter.org/github/ZacharyGoldstein/pgh-juvenile-arrests/blob/master/Arrest%20Data%20EDA.ipynb).
 ### [Dog-License Data](https://data.wprdc.org/dataset/allegheny-county-dog-licenses)
 - [nrfulton/pittdoggos](https://github.com/nrfulton/pittdoggos) - Nathan Fulton's Python scripts for analyzing county (but not city) dog-license data and a simple Web page for searching dogs by name.
-### Fatal Accidental Overdoses Data
+### [Fatal Accidental Overdoses Data](https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses)
 - [conorotompkins/allegheny_overdoses](https://github.com/conorotompkins/allegheny_overdoses) - Conor Tompkins' R-based analaysis of the [County Fatal Accidental Overdoses data](https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses).
 ### [Healthy Ride Data](https://data.wprdc.org/dataset?organization=healthy-ride)
 - [conorotompkins/healthy_ride](https://github.com/conorotompkins/healthy_ride) - Conor Tompkins' R-based analysis of [Healthy Ride data](https://data.wprdc.org/dataset?organization=healthy-ride).
