@@ -68,6 +68,9 @@ A collection of WPRDC-relevant tools and data analyses.
 - [datamade/census](https://github.com/datamade/census) - A Python wrapper for the U.S. Census API.
 - [datadesk/census-error-analyzer](https://github.com/datadesk/census-error-analyzer) - Given two Census values and the corresponding margins of error, this Python library can do an analysis to determine whether there is a statistically significant difference between them.
 
+## Code for geospatial manipulation
+- [mggg/maup](https://github.com/mggg/maup) - "The geospatial toolkit for redistricting data", a Python package designed to facilitate conversion between spatial regions used for elections (e.g., precincts) and spatial regions used by the Census to collect demographic information (e.g., blocks).
+
 ## Contribute
 
 Please contribute things that could be useful to others using [WPRDC ](https://www.wprdc.org)[data](https://data.wprdc.org), including scripts for data cleaning or analyzing data, Jupyter notebooks for particular datasets, and tools for manipulating and visualizing the data.
