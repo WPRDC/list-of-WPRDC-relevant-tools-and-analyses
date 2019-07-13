@@ -59,12 +59,12 @@ A collection of WPRDC-relevant tools and data analyses.
 ## Other data sources
 
 ### Tools
-- [ljwolf/cenpy](https://github.com/ljwolf/cenpy) - A Python library for exploring and querying the US Census API and returning Pandas DataFrames.
 
 ## General tools for working with data
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data. (It's basically a Swiss Army chainsaw for manipulating tabular data.)
 
 ## Code for dealing with Census data
+- [ljwolf/cenpy](https://github.com/ljwolf/cenpy) - A Python library for exploring and querying the US Census API and returning Pandas DataFrames.
 - [datamade/census](https://github.com/datamade/census) - A Python wrapper for the U.S. Census API.
 - [datadesk/census-error-analyzer](https://github.com/datadesk/census-error-analyzer) - Given two Census values and the corresponding margins of error, this Python library can do an analysis to determine whether there is a statistically significant difference between them.
 
