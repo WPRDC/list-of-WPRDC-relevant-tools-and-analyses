@@ -60,6 +60,9 @@ A collection of WPRDC-relevant tools and data analyses.
 ### General tools for working with data
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data. (It's basically a Swiss Army chainsaw for manipulating tabular data.)
 
+### WPRDC-specific tools
+- [Downstream](https://tools.wprdc.org/downstream) - An online tool for downloading any tabular data on the WPRDC data portal (even very large tables) as a CSV or TSV file. Small- to medium-sized tables may also be downloaded as Excel files.
+
 ### Code for dealing with Census data
 - [ljwolf/cenpy](https://github.com/ljwolf/cenpy) - A Python library for exploring and querying the US Census API and returning Pandas DataFrames.
 - [datamade/census](https://github.com/datamade/census) - A Python wrapper for the U.S. Census API.
