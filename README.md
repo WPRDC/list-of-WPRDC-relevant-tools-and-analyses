@@ -25,7 +25,7 @@ A collection of WPRDC-relevant tools and data analyses.
 ### [Fatal Accidental Overdoses Data](https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses)
 - [conorotompkins/allegheny_overdoses](https://github.com/conorotompkins/allegheny_overdoses) - Conor Tompkins' R-based analaysis of the [County Fatal Accidental Overdoses data](https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses).
 ### [Healthy Ride Data](https://data.wprdc.org/dataset?organization=healthy-ride)
-- [conorotompkins/healthy_ride](https://github.com/conorotompkins/healthy_ride) - Conor Tompkins' R-based analysis of [Healthy Ride data](https://data.wprdc.org/dataset?organization=healthy-ride).
+- [conorotompkins/healthy_ride](https://github.com/conorotompkins/healthy_ride) - Conor Tompkins' R-based analysis of [Healthy Ride data](https://data.wprdc.org/dataset?organization=healthy-ride), now updated to include [time-series forecasting](https://ctompkins.netlify.com/2019/08/03/forecasting-healthy-ride-ridership-with-prophet/).
 
 ## Examples demonstrating different skills
 
@@ -53,6 +53,8 @@ A collection of WPRDC-relevant tools and data analyses.
 - [Tutorial on using R to analyze pothole data](https://ctompkins.netlify.com/2018/04/18/r-311-pothole-workshop-code-for-pittsburgh/) - Material from a workshop run by Conor Tompkins, using Pittsburgh's 311 data on potholes to teach the basics of using R (including manipulating data and making charts and maps).
 #### Principal component analysis in R
 - [Principal Component Analysis in R](https://ctompkins.netlify.com/2018/07/19/exploring-311-data-with-pca/) - A blog post explaining the application of prinicpal component analysis to Pittsburgh's 311 data.
+#### Time-series forecasting in R
+- [Forecasting Healthy Ride ridership](https://ctompkins.netlify.com/2019/08/03/forecasting-healthy-ride-ridership-with-prophet/) - A blog post describing the use of the `prophet` package to extract seasonality features and predict the variation in Healthy Ride bike-ride counts.
 #### CKAN API usage under R + debugging a broken SQL query
 - [Using the CKAN API wrapper + converting string fields to integers in SQL queries](https://gist.github.com/drw/3fa37a32dcb49d42820347b8b735bec3) - Addressing a common pitfall when running SQL queries, this R script shows how to convert a string field to an integer and then use it in the WHERE clause of a SQL query. This also gives a simple example of using the ckanr wrapper package to more easily use the CKAN API.
 
