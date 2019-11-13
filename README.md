@@ -57,6 +57,8 @@ A collection of WPRDC-relevant tools and data analyses.
 - [Forecasting Healthy Ride ridership](https://ctompkins.netlify.com/2019/08/03/forecasting-healthy-ride-ridership-with-prophet/) - A blog post describing the use of the `prophet` package to extract seasonality features and predict the variation in Healthy Ride bike-ride counts.
 #### CKAN API usage under R + debugging a broken SQL query
 - [Using the CKAN API wrapper + converting string fields to integers in SQL queries](https://gist.github.com/drw/3fa37a32dcb49d42820347b8b735bec3) - Addressing a common pitfall when running SQL queries, this R script shows how to convert a string field to an integer and then use it in the WHERE clause of a SQL query. This also gives a simple example of using the ckanr wrapper package to more easily use the CKAN API.
+#### Handling Census data + network analysis in R
+- [Analyzing commuter patterns in Allegheny County](https://ctompkins.netlify.com/2019/11/11/analyzing-commuter-patterns-in-allegheny-county/) - Conor Tompkins describes how to use R to manipulate Census data about commuting to study and map the most common starting and ending points for travelling between work and home, revealing that a huge number of people commute to downtown Pittsburgh with sizable numbers travelling to work in Oakland, Findlay Township, Moon Township, and Robinson Township.
 
 ## Useful tools and code libraries
 ### General tools for working with data
