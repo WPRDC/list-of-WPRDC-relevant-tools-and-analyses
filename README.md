@@ -75,6 +75,9 @@ A collection of WPRDC-relevant tools and data analyses.
 ### Code for geospatial manipulation
 - [mggg/maup](https://github.com/mggg/maup) - "The geospatial toolkit for redistricting data", a Python package designed to facilitate conversion between spatial regions used for elections (e.g., precincts) and spatial regions used by the Census to collect demographic information (e.g., blocks).
 
+### Code/service for calculating routes between locations
+[Jupyter notebook examples](https://github.com/GIScience/openrouteservice-examples/) of how to use [the API](https://openrouteservice.org/) of the [OpenRouteService routing calculator](https://maps.openrouteservice.org/), which currently has a generous free tier, providing not just routing/directions, but maps, geocoding, isochrones, and elevation information.
+
 ## Contribute
 
 Please contribute things that could be useful to others using [WPRDC ](https://www.wprdc.org)[data](https://data.wprdc.org), including scripts for data cleaning or analyzing data, Jupyter notebooks for particular datasets, and tools for manipulating and visualizing the data.
