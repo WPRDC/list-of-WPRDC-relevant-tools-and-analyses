@@ -26,6 +26,8 @@ A collection of WPRDC-relevant tools and data analyses.
 - [conorotompkins/allegheny_overdoses](https://github.com/conorotompkins/allegheny_overdoses) - Conor Tompkins' R-based analaysis of the [County Fatal Accidental Overdoses data](https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses).
 ### [Healthy Ride Data](https://data.wprdc.org/dataset?organization=healthy-ride)
 - [conorotompkins/healthy_ride](https://github.com/conorotompkins/healthy_ride) - Conor Tompkins' R-based analysis of [Healthy Ride data](https://data.wprdc.org/dataset?organization=healthy-ride), now updated to include [time-series forecasting](https://ctompkins.netlify.com/2019/08/03/forecasting-healthy-ride-ridership-with-prophet/).
+### [Pittsburgh Steps Data](https://data.wprdc.org/dataset/city-steps)
+- [sdl60660/pittsburgh-steps](https://github.com/sdl60660/pittsburgh-steps) - [Sam Learner](https://www.samlearner.com/) made this series of visualizations of the [Pittsburgh Steps dataset](https://data.wprdc.org/dataset/city-steps), that you can scroll through to learn about the many public staircases in Pittsburgh. Made with D3, Svelte, and Mapbox.
 
 ## Examples demonstrating different skills
 
