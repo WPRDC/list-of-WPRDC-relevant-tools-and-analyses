@@ -16,7 +16,7 @@ A collection of WPRDC-relevant tools and data analyses.
 - [eleanortutt/codeforpgh-20180613](https://github.com/eleanortutt/codeforpgh-20180613) - Eleanor Tutt's demonstration of how to load data into Pandas dataframes and how to make choloropleth maps.
 ### [Crash Data](https://data.wprdc.org/dataset/allegheny-county-crash-data)
 - [WPRDC/Jupyter-notebooks-by-dataset/Crash-Data-Analysis](https://github.com/WPRDC/Jupyter-notebooks-by-dataset/blob/master/Crash-Data-Analysis.ipynb) - WPRDC data analysis of [Allegheny County crash data](https://data.wprdc.org/dataset/allegheny-county-crash-data), demonstrating a few methods for loading data from CKAN and manipulating data.
-- [conorotompkins/allegheny_crashes](https://github.com/conorotompkins/allegheny_crashes) - Conor Tompkins' R-based analysis of [Allegheny County crash data](https://data.wprdc.org/dataset/allegheny-county-crash-data) and the accompanying [blog post](https://ctompkins.netlify.com/2018/06/27/car-crashes-in-allegheny-county/), showing some interesting visualizations.
+- [conorotompkins/allegheny_crashes](https://github.com/conorotompkins/allegheny_crashes) - Conor Tompkins' R-based analysis of [Allegheny County crash data](https://data.wprdc.org/dataset/allegheny-county-crash-data) and the accompanying [blog post](https://ctompkins.netlify.app/post/car-crashes-in-allegheny-county/), showing some interesting visualizations.
 ### [Crime Data](https://data.wprdc.org/dataset?q=crime&sort=views_recent+desc)
 - [conorotompkins/pgh-crime](https://github.com/conorotompkins/pgh-crime) - Conor Tompkins' R-based analysis of [Pittsburgh crime data](https://data.wprdc.org/dataset?q=crime&sort=views_recent+desc).
 - [ZacharyGoldstein/pgh-juvenile-arrests](https://github.com/ZacharyGoldstein/pgh-juvenile-arrests) - Zach Goldstein's analysis of [Pittsburgh arrests data](https://data.wprdc.org/dataset/arrest-data) for a [WESA article on juvenile arrests](http://www.wesa.fm/post/pittsburgh-s-trend-juvenile-arrests-explained-4-charts-and-maps). You can also view the [Jupyter notebook with plots](https://nbviewer.jupyter.org/github/ZacharyGoldstein/pgh-juvenile-arrests/blob/master/Arrest%20Data%20EDA.ipynb).
@@ -25,7 +25,7 @@ A collection of WPRDC-relevant tools and data analyses.
 ### [Fatal Accidental Overdoses Data](https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses)
 - [conorotompkins/allegheny_overdoses](https://github.com/conorotompkins/allegheny_overdoses) - Conor Tompkins' R-based analaysis of the [County Fatal Accidental Overdoses data](https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses).
 ### [Healthy Ride Data](https://data.wprdc.org/dataset?organization=healthy-ride)
-- [conorotompkins/healthy_ride](https://github.com/conorotompkins/healthy_ride) - Conor Tompkins' R-based analysis of [Healthy Ride data](https://data.wprdc.org/dataset?organization=healthy-ride), now updated to include [time-series forecasting](https://ctompkins.netlify.com/2019/08/03/forecasting-healthy-ride-ridership-with-prophet/).
+- [conorotompkins/healthy_ride](https://github.com/conorotompkins/healthy_ride) - Conor Tompkins' R-based analysis of [Healthy Ride data](https://data.wprdc.org/dataset?organization=healthy-ride), now updated to include [time-series forecasting](https://ctompkins.netlify.app/post/forecasting-healthy-ride-ridership-with-prophet/).
 ### [Pittsburgh Steps Data](https://data.wprdc.org/dataset/city-steps)
 - [sdl60660/pittsburgh-steps](https://github.com/sdl60660/pittsburgh-steps) - [Sam Learner](https://www.samlearner.com/) made this series of visualizations of the [Pittsburgh Steps dataset](https://data.wprdc.org/dataset/city-steps), that you can scroll through to learn about the many public staircases in Pittsburgh. Made with D3, Svelte, and Mapbox.
 ### [Property Assessments Data](https://data.wprdc.org/dataset/property-assessments) + [Property Sales Data](https://data.wprdc.org/dataset/real-estate-sales)
@@ -57,15 +57,15 @@ A collection of WPRDC-relevant tools and data analyses.
 
 ### R
 #### Learning R
-- [Tutorial on using R to analyze pothole data](https://ctompkins.netlify.com/2018/04/18/r-311-pothole-workshop-code-for-pittsburgh/) - Material from a workshop run by Conor Tompkins, using Pittsburgh's 311 data on potholes to teach the basics of using R (including manipulating data and making charts and maps).
+- [Tutorial on using R to analyze pothole data](https://ctompkins.netlify.app/post/r-311-pothole-workshop-code-for-pittsburgh/) - Material from a workshop run by Conor Tompkins, using Pittsburgh's 311 data on potholes to teach the basics of using R (including manipulating data and making charts and maps).
 #### Principal component analysis in R
-- [Principal Component Analysis in R](https://ctompkins.netlify.com/2018/07/19/exploring-311-data-with-pca/) - A blog post explaining the application of prinicpal component analysis to Pittsburgh's 311 data.
+- [Principal Component Analysis in R](https://ctompkins.netlify.app/post/exploring-311-data-with-pca/) - A blog post explaining the application of prinicpal component analysis to Pittsburgh's 311 data.
 #### Time-series forecasting in R
-- [Forecasting Healthy Ride ridership](https://ctompkins.netlify.com/2019/08/03/forecasting-healthy-ride-ridership-with-prophet/) - A blog post describing the use of the `prophet` package to extract seasonality features and predict the variation in Healthy Ride bike-ride counts.
+- [Forecasting Healthy Ride ridership](https://ctompkins.netlify.app/post/forecasting-healthy-ride-ridership-with-prophet/) - A blog post describing the use of the `prophet` package to extract seasonality features and predict the variation in Healthy Ride bike-ride counts.
 #### CKAN API usage under R + debugging a broken SQL query
 - [Using the CKAN API wrapper + converting string fields to integers in SQL queries](https://gist.github.com/drw/3fa37a32dcb49d42820347b8b735bec3) - Addressing a common pitfall when running SQL queries, this R script shows how to convert a string field to an integer and then use it in the WHERE clause of a SQL query. This also gives a simple example of using the ckanr wrapper package to more easily use the CKAN API.
 #### Handling Census data + network analysis in R
-- [Analyzing commuter patterns in Allegheny County](https://ctompkins.netlify.com/2019/11/11/analyzing-commuter-patterns-in-allegheny-county/) - Conor Tompkins describes how to use R to manipulate Census data about commuting to study and map the most common starting and ending points for travelling between work and home, revealing that a huge number of people commute to downtown Pittsburgh with sizable numbers travelling to work in Oakland, Findlay Township, Moon Township, and Robinson Township.
+- [Analyzing commuter patterns in Allegheny County](https://ctompkins.netlify.app/post/analyzing-commuter-patterns-in-allegheny-county/) - Conor Tompkins describes how to use R to manipulate Census data about commuting to study and map the most common starting and ending points for travelling between work and home, revealing that a huge number of people commute to downtown Pittsburgh with sizable numbers travelling to work in Oakland, Findlay Township, Moon Township, and Robinson Township.
 
 ## Useful tools and code libraries
 ### General tools for working with data
