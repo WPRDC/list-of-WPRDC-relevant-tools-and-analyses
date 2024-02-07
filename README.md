@@ -85,6 +85,9 @@ A collection of WPRDC-relevant tools and data analyses.
 ### Code/service for calculating routes between locations
 - [Jupyter notebook examples](https://github.com/GIScience/openrouteservice-examples/) of how to use [the API](https://openrouteservice.org/) of the [OpenRouteService routing calculator](https://maps.openrouteservice.org/), which currently has a generous free tier, providing not just routing/directions, but maps, geocoding, isochrones, and elevation information.
 
+## Other relevant data
+- See our [Other Useful Datasets GitHub repo](https://github.com/WPRDC/other-useful-datasets/tree/main) for links to non-WPRDC datasets that could be helpful when working with WPRDC datasets.
+
 ## Contribute
 
 Please contribute things that could be useful to others using [WPRDC ](https://www.wprdc.org)[data](https://data.wprdc.org), including scripts for data cleaning or analyzing data, Jupyter notebooks for particular datasets, and tools for manipulating and visualizing the data.
